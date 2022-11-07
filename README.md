@@ -1,0 +1,1 @@
+This repo is from the [Tailwind CSS - Beginner React Mobile Responsive Project](https://youtu.be/GDd2c70gsxE) by [@fireclint](https://github.com/fireclint/food-app-react-tailwind)
